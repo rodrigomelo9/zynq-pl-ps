@@ -21,4 +21,7 @@ presented at [SPL2019](http://www.splconf.org/spl19/), which can be cited as:
 
 It can be reproduced following the instructions [here](instructions.md).
 
+> **NOTE:** this work was mainly performed during 2018, using `Vivado 2017.4` and having as target **Zynq-7000 devices**.
+> Update/modifications could be needed to run nowadays and over different devices, such as a **Zynq UltraScale+**.
+
 It is distributed under a [CC BY 4.0 ![CC BY 4.0 icon](https://i.creativecommons.org/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/) license.

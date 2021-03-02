@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER AXI3_BurstSniffer
+	OPTION supported_peripherals = (AXI3_BurstSniffer);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = AXI3_BurstSniffer;
+END DRIVER
